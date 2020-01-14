@@ -1,0 +1,14 @@
+.form-container {
+    background: url(../images/formBg.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover cover;
+}
+
+label {
+    text-shadow: 0px 0px 2px black;
+}
+
+.remove-trigger {
+    cursor: pointer;
+}
